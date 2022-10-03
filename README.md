@@ -1,1 +1,2 @@
-# tecnico2022
+# 2EMIB
+Repositório de aula.
